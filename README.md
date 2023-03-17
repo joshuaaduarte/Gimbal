@@ -39,9 +39,6 @@ Following the interview, I have continued to expand on the Gimbal by adding a la
 
 I have also created better cable management with the joystick and buttons by using a protoboard to solder the components onto. 
 
-In the coming weeks, I anticipate having a final model that can be will be far more aesthically appealing 
-and user friendly. 
-
 <p align = 'center'>
 <img src="media/images/camera/gimbalMovement.gif" width="400" height="300">
 <p/>
@@ -49,4 +46,8 @@ and user friendly.
 Current State of Gimbal
 <p/>
 
+In the coming weeks, I anticipate having a final model that can be will be far more aesthically appealing 
+and user friendly. 
+
+I will also be adding a segment would use computer vision to collect data from the video feed to track my face or an object of interest to keep it centrally aligned, regardless of its movement. This movement of Gimbal will be paired with a visual representation of the data that I will be interpreting behind the scenes. 
 ___
