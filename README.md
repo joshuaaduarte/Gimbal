@@ -12,7 +12,7 @@ ___
 
 <p align='center'>
     <img src="media/images/camera/gimbal.JPG" width="400" height="300" style="margin-right: 10px;">
-    <img src="media/images/cad/gimbal-assembly.JPG" width="400" height="300" >
+    <img src="media/images/cad/gimbal-assembly.jpg" width="400" height="300" >
 </p>
 <p align = 'center'>
 Gimbal Functional Iteration One
